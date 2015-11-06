@@ -1,2 +1,2 @@
 # Persian-Letter-frequency-counter
-Persian character frequency analyzer
+The persian character frequency analyzer tool allows you to analyze and count the character frequency of a piece of text.
